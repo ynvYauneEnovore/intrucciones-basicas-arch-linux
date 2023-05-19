@@ -1,0 +1,10 @@
+si en un caso se cuelga se tendria que realizar el resteo 
+del serivio en arch para poder abrir "iwctl" getor de redes wifi
+por consola:
+$ device list
+luego de ver los dispositivos scaneamos las redes 
+$ station wlan0 scan
+y para poder ver los resultado del scaneo 
+$ station wlan0 get-networks
+luego de spues de ver las listas nos conetamos con 
+$ station wlan0 connect ynv  
