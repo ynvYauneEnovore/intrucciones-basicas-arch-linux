@@ -1,3 +1,5 @@
+y los primordial es a restart este proeso por si se cuelga
+$ sudo systemctl restart iwd.service
 si en un caso se cuelga se tendria que realizar el resteo 
 del serivio en arch para poder abrir "iwctl" getor de redes wifi
 por consola:
