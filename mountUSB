@@ -1,0 +1,11 @@
+antes de todo vemos que unidades esta reconociendo el dispositivo
+$ lsblk
+
+priemro vamos a ac rearla carpeta donde stara alojado nuestro usb
+$ sudo mkdir /mnt/usb
+
+luego montamos en nuestra carpeta la unidad deseada
+$ sudo mount /dev/sdb1 /mnt/usb  
+
+
+
