@@ -36,5 +36,5 @@ Este proyecto se encuentra bajo la Licencia MIT. Puedes consultar el archivo [LI
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo. Puedes enviar un correo electrónico a yovanuxf@gmail.com.
-
+![Logo](https://github.com/ynvYauneEnovore/personal-port/blob/main/public/img/ynv.png)
 
