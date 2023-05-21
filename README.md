@@ -1,5 +1,5 @@
 # Sistema de Comandos de Arch Linux
-
+<h2> <span>Desarrollador: Yovan R. Yaune Enovore</span></h2>
 Este repositorio contiene una base de datos de instrucciones y comandos útiles para el sistema de comandos de Arch Linux. El objetivo principal es proporcionar una referencia rápida y práctica para los usuarios de Arch Linux, especialmente aquellos que están familiarizados con el entorno de línea de comandos.
 
 ## Estructura del repositorio
