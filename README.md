@@ -13,7 +13,7 @@ El repositorio está organizado en los siguientes directorios:
 ## Cómo utilizar este repositorio
 
 1. Clona este repositorio en tu máquina local:
-´git clone https://github.com/tu-usuario/arch-linux-comandos.git´
+`git clone https://github.com/tu-usuario/arch-linux-comandos.git`
 2. Explora los diferentes directorios para encontrar las instrucciones y comandos que necesitas.
 
 3. Dentro de cada archivo, encontrarás una descripción detallada del comando o la instrucción, así como ejemplos de uso.
